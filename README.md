@@ -34,7 +34,7 @@
 ++==-=.:----=#=           +=:...:-==+*****:=#*+==+#++===
 </pre>
 
-<h1>Natalia Villegas Canizales</h1>
+<h1>Natalia Villegas Calderon</h1>
 
 <p>Summa Cum Laude graduate in Industrial Engineering & Computer and Systems Engineering</p>
 
