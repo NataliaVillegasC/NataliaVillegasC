@@ -95,4 +95,7 @@ python3 ascii_art.py me.png --width 80
 
 # regenerate AND drop it straight into README.md's <pre> block
 python3 ascii_art.py me.png --update-readme
+
+# Total
+python3 ascii_art.py me.png --width 100 --update-readme
 """
